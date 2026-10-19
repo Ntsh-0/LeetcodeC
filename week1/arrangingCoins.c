@@ -1,5 +1,5 @@
 /*
-Date - 1/oct/2026
+Date - 15/oct/2026
 Problem Link - https://leetcode.com/problems/arranging-coins/description/
 
 Problem Statement
