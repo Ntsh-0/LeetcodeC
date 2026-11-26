@@ -1,4 +1,3 @@
-https://leetcode.com/problems/find-the-distance-value-between-two-arrays/submissions/2190133795/?envType=daily-question&envId=2026-11-05
 /*
 Date - 6/nov/2026
 Problem Link - 
