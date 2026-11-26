@@ -1,5 +1,5 @@
 /*
-Date - 1/nov/2026
+Date - 2/nov/2026
 Problem Link - https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/submissions/2187874910/?envType=daily-question&envId=2026-11-02
 
 
